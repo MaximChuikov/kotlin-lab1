@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">product-viewer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="product_title">Product</string>
+    <string name="profile">profile</string>
+    <string name="sub_header">Subheader</string>
+    <string name="header">Header</string>
+    <string name="todo">TODO</string>
+    <string name="fish">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="enabled">Enabled</string>
+    <string name="subhead">Subhead</string>
+    <string name="title">Title</string>
+    <string name="id_btn">Кнопка с текстом Id</string>
+    <string name="share">Поделиться</string>
+    <string name="like">Лайк</string>
+    <string name="change_card_color">Меняет цвет фона карточки выше при переключении</string>
+    <string name="fish2">А это текст полный смысла и очень большой, наверное тут должно быть описание сказочного персонажа или ещё кого-то, вообщем смысл простой - длинный текст, а ещё он не доходит до конца экрана, это фича =)</string>
+    <string name="title2">Это заголовок</string>
+</resources>
